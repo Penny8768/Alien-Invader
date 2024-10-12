@@ -1,8 +1,8 @@
-# UFO Hunters
+# Alien Invader
 
 ## Overview
 
-UFO Hunters is a 2D arcade-style game developed using the Gosu library in Ruby. The player controls a spaceship and must shoot down incoming invaders and avoid missiles while collecting hearts to gain extra lives. The game features multiple types of enemies, animated explosions, and a scoring system.
+Alien Invader is a 2D arcade-style game developed using the Gosu library in Ruby. The player controls a spaceship and must shoot down incoming invaders and avoid missiles while collecting hearts to gain extra lives. The game features multiple types of enemies, animated explosions, and a scoring system.
 
 <p align="center">
   <img src="demo/1.gif" width="200">
